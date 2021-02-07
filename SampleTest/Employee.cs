@@ -10,5 +10,7 @@ namespace SampleTest
     {
         public string Name { get; set; }
         public string Salary { get; set; }
+
+        public string address { get; set; }
     }
 }
